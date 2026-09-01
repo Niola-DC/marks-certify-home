@@ -10,7 +10,7 @@ import {
 const DATA_FILE = path.join(process.cwd(), "data", "waitlist.json");
 
 // Seed count so the "Proof" section doesn't launch at zero.
-const SEED_COUNT = 42;
+const SEED_COUNT = 8;
 
 // The public count is a vanity number on the homepage; a slightly stale value is
 // fine and beats hitting Airtable on every page view.

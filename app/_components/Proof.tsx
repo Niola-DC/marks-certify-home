@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const FALLBACK_COUNT = 12;
+const FALLBACK_COUNT = 8;
 
 export default function Proof() {
   const [count, setCount] = useState(FALLBACK_COUNT);
