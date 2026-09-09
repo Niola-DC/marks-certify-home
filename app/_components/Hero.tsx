@@ -83,10 +83,6 @@ export default function Hero() {
             See how it works
           </a>
         </div>
-
-//         <p className="mt-5 text-sm text-white/40">
-//           Free 1-month trial · No credit card required
-//         </p>
       </div>
 
       {/* product mockup */}
